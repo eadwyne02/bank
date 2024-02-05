@@ -1,0 +1,8 @@
+value1= int(input("first value: "))
+value2= int(input("second value: "))
+# print(value1 + value2)
+# print(value1 - value2)
+# print(value1 / value2)
+print(value1 % value2)
+# print(value1 * value2)
+# print(value1 ** value2)
